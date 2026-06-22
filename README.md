@@ -8,7 +8,7 @@ My work has included building dashboards, developing SQL-based data solutions, a
 
 This repository highlights projects completed through my academic studies, professional development, and hands-on data analytics work.
 
-Technical Skills
+**Technical Skills**
 SQL
 Python
 Power BI
@@ -18,11 +18,12 @@ Data Quality & Validation
 Data Governance
 Root Cause Analysis
 
-Current Focus
+**Current Focus**
 Master's in Data Analytics (WGU)
-
-Connect With Me
-LinkedIn: (https://www.linkedin.com/in/janeka-martin-45a72078/)
 Data Quality & Governance
 Analytics Automation
 Portfolio Development
+
+**Connect With Me**
+LinkedIn: (https://www.linkedin.com/in/janeka-martin-45a72078/)
+
