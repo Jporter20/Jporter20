@@ -2,7 +2,7 @@
 
 **Hi, I'm Janeka.**
 
-I'm an **Analytics and Business Intelligence leader** with 8+ years of experience leading data-driven initiatives across financial services, healthcare, government programs, and operations.
+I'm an **Analytics and Business Intelligence leader** with 9+ years of experience leading data-driven initiatives across financial services, healthcare, government programs, and operations.
 
 My experience combines hands-on expertise in **SQL, business intelligence, data quality, root-cause analysis, reporting, and data validation** with leadership experience guiding analysts and engineers, improving analytical processes, setting priorities, and partnering with senior stakeholders to solve complex business problems.
 
