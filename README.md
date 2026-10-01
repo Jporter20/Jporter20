@@ -1,26 +1,48 @@
-# About-Me
+# Hi, I'm Janeka 👋🏾
 
-**Hi, I'm Janeka.**
+I'm a **Data, Analytics & Product Leader** with 9+ years of experience translating business needs into analytics, reporting, and technology solutions across financial services, healthcare, government programs, and operations.
 
-I'm an **Analytics and Business Intelligence leader** with 9+ years of experience leading data-driven initiatives across financial services, healthcare, government programs, and operations.
+My career sits at the intersection of **data + product + technology delivery**. I've worked hands-on with SQL, BI, reporting, data quality, root-cause analysis, and validation while also leading cross-functional teams, developing roadmaps, defining requirements and user stories, prioritizing work, managing risks and dependencies, and partnering with engineering and senior stakeholders from discovery through implementation.
 
-My experience combines hands-on expertise in **SQL, business intelligence, data quality, root-cause analysis, reporting, and data validation** with leadership experience guiding analysts and engineers, improving analytical processes, setting priorities, and partnering with senior stakeholders to solve complex business problems.
+That combination helps me bridge the gap between **what the business needs, what the data says, and what technology teams need to build.**
 
-Throughout my career, I've led reporting and analytics initiatives, developed business intelligence solutions, investigated data-quality issues, automated controls and reporting processes, translated complex business requirements into technical solutions, and helped teams improve the quality and reliability of their data.
+## What I Do
 
-I'm especially passionate about identifying why something isn't working, using data to uncover the root cause, and creating better processes that help teams make more informed decisions.
+- **Data & Analytics Products** — reporting platforms, BI solutions, self-service analytics, and data-driven workflows
+- **Product Leadership** — product ownership, roadmaps, prioritization, requirements, user stories, stakeholder alignment, and delivery
+- **Analytics & BI** — SQL, Power BI, Tableau, MicroStrategy, Excel, Python, and Snowflake
+- **Data Quality** — validation, reconciliation, root-cause analysis, business rules, and source-to-output testing
+- **Technology Delivery** — cross-functional leadership, dependencies, UAT, release readiness, and risk management
 
-This GitHub highlights selected projects from my academic studies and professional development that demonstrate my approach to **business analytics, SQL, data quality, reporting, visualization, and analytical problem-solving.**
+## Featured Work
 
-**Technical & Analytics Skills**
-SQL • Python • Power BI • Excel • Snowflake • Tableau • Alteryx • Data Quality & Validation • Data Governance • Root Cause Analysis • Business Intelligence
+### Analytics Product Delivery Roadmap
+Sanitized product case study demonstrating roadmap planning, requirements, current-state/future-state thinking, data validation, risk/dependency management, UAT, and release readiness for an analytics/reporting modernization initiative.
 
-**Leadership & Business Skills**
-Analytics Leadership • Team Leadership & Mentoring • Stakeholder Management • Cross-Functional Leadership • Requirements Analysis • Process Improvement • Executive Reporting
+### Control Automation Validation
+Examples focused on business-rule translation, SQL validation, data-quality thinking, and control automation.
 
-**Current Focus**
-Master's in Data Analytics (WGU) • Analytics Leadership • Business Intelligence • Data Quality & Governance • Advanced SQL & Analytics
+### Business Intelligence Dashboard Portfolio
+Dashboard and reporting examples demonstrating BI development and communicating data for business decisions.
 
-**Connect With Me**
-LinkedIn: (https://www.linkedin.com/in/janeka-martin-45a72078/)
+### SQL Analytics Portfolio
+SQL examples demonstrating querying, analysis, data validation, and analytical problem-solving.
 
+### Python Projects
+Python projects showing hands-on analytics and automation work.
+
+## Leadership + Technical Toolkit
+
+**Product:** Product Strategy • Product Ownership • Roadmaps • Prioritization • Requirements • User Stories • Agile • Stakeholder Management • Risk & Dependency Management • Release Readiness
+
+**Data & Analytics:** SQL • Power BI • Tableau • MicroStrategy • Excel • Python • Snowflake • Alteryx • Data Quality • Data Validation • Root-Cause Analysis • Business Intelligence
+
+**Leadership:** Cross-Functional Leadership • Analyst & Engineer Collaboration • Process Improvement • Executive Communication • Technical-to-Business Translation
+
+## Current Focus
+
+I'm continuing to grow at the intersection of **data products, analytics products, BI/reporting platforms, and technology product leadership** — roles where analytical depth and product judgment work together.
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/janeka-martin-45a72078/
