@@ -46,3 +46,4 @@ I'm continuing to grow at the intersection of **data products, analytics product
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/janeka-martin-45a72078/
+[View my current resume](Janeka_Martin_Data_Product_Resume.pdf)
